@@ -85,6 +85,6 @@ The constitution of the Aether Nation is made effective by the signed approval o
 
 | Aetherlord     | Grand Sage    |
 | -------------- | --------------|
-| [Sign]         | [Sign]        |
+| Jacob V. Haap  | [Sign]        |
 
 ### Date:
