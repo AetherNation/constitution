@@ -87,4 +87,4 @@ The constitution of the Aether Nation is made effective by the signed approval o
 | ----------------------| ----------------------|
 | Jacob V. Haap         | James F. Piorkowski   |
 
-### Date:
+### Date: October 10, 12020
