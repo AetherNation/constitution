@@ -83,8 +83,8 @@ The adoption of this constitution ratifies all policies within it, creates the g
 ## Article 6. Ratification
 The constitution of the Aether Nation is made effective by the signed approval of the first Aetherlord and first Grand Sage of the Aether Nation. The effectiveness begins on the signed date and brings forth the adoption of this constitution.
 
-| Aetherlord     | Grand Sage    |
-| -------------- | --------------|
-| Jacob V. Haap  | [Sign]        |
+| Aetherlord            | Grand Sage            |
+| ----------------------| ----------------------|
+| Jacob V. Haap         | James F. Piorkowski   |
 
 ### Date:
